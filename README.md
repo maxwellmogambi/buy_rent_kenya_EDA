@@ -112,3 +112,8 @@ Run the Jupyter notebook to perform EDA and visualize the data:
 ```bash
 jupyter notebook Buy_Rent_Kenya_Analysis.ipynb
 ```
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any features, bug fixes, or enhancements.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
