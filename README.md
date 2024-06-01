@@ -49,7 +49,7 @@ The dataset was scraped from the BuyRentKenya website and contains the following
 To use this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/house-price-analysis-kenya.git
+git clone https://github.com/maxwellmogambi/buy_rent_kenya_EDA.git
 cd house-price-analysis-kenya
 pip install -r requirements.txt
 ```
